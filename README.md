@@ -61,7 +61,7 @@ Aspiring Mathematical Engineer currently at Politecnico di Milano. With a strong
 
 ## 📫 **Get in Touch**
 
-- [LinkedIn](https://www.linkedin.com/in/riccardosabatti/)
+- [LinkedIn](https://www.linkedin.com/in/riccardo-sabatti-4a28312a6/)
 - [GitHub](https://github.com/riccardosabatti)
 - Email: `riccardosabatti [at] proton [dot] me`
 
